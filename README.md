@@ -15,9 +15,9 @@ Here’s a glimpse of my technical toolkit:
 ## 🌟 Featured Projects
 Check out some of my work:
 1. **ML Model Tumor Prediction**
-   - *Description:* This project trains and deploys a machine learning pipeline that uses radiologic measurements to predict if a tumor ia benign or malignant.
+   - *Description:* This project trains and deploys a machine learning pipeline that uses radiologic measurements to predict if a tumor is benign or malignant.
    - *Technologies used:* Python
-   - [Link to project repository]
+   - 
 2. **[Project Name]**
    - *Description:* [Same as above.]
    - [Link to project repository]
