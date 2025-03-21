@@ -10,7 +10,7 @@ My name is Jeremiah Hansen and I am a current student of the Masters in Business
 Here’s a glimpse of my technical toolkit:
 - **Programming Languages:** Python, SQL, R, HTML, CSS, PowerShell.
 - **Tools & Frameworks:** Tableau, Excel with Power Query, PowerBI, Git, PowerPoint, EPIC.
-- **Expertise:** Data Cleaning, Data Wrangling, Exploratory Data Analysis, Data Pipelines, Machine Learning, and Database Administation.
+- **Expertise:** Data Cleaning, Data Wrangling, Exploratory Data Analysis, Data Pipelines, Machine Learning, Database Design, Database Administration, Project Management, and Change Management.
 
 ## 🌟 Featured Projects
 Check out some of my work:
