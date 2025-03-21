@@ -19,11 +19,11 @@ Check out some of my work:
    - *Technologies used:* Python
    - https://github.com/jhan403/Data-Analytics-Portfolio/tree/500b0bfed44c1dba275ec51b34871a48a5f4ec6f/ML%20Model%20Tumor%20Prediction
 2. **AB Testing**
-   - *Description:* This project 
+   - *Description:* This project explores AB testing of webpages to determine if changes to the webpage make a difference in customer engagement.
    -  (https://github.com/jhan403/Data-Analytics-Portfolio/tree/8e7d9bf4980d8585b752c1479a197bc5b51694b1/AB%20Testing)
 
 Want to see more? Head over to the repositories section for the full collection. 🎉
 
 ## 🔗 Connect with Me
-- [LinkedIn](https://linkedin.com/in/yourprofile)
+- www.linkedin.com/in/jeremiah.hansen-ba77a2248
 - jeremiah.hansen93@gmail.com
