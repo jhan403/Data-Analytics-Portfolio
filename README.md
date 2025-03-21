@@ -20,7 +20,7 @@ Check out some of my work:
    - https://github.com/jhan403/Data-Analytics-Portfolio/tree/500b0bfed44c1dba275ec51b34871a48a5f4ec6f/ML%20Model%20Tumor%20Prediction
 2. **AB Testing**
    - *Description:* This project 
-   - [Link to project repository]
+   - [[Link to project repository]](https://github.com/jhan403/Data-Analytics-Portfolio/tree/8e7d9bf4980d8585b752c1479a197bc5b51694b1/AB%20Testing)
 
 Want to see more? Head over to the repositories section for the full collection. 🎉
 
