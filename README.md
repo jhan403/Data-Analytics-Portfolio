@@ -1,18 +1,16 @@
-# Welcome to Jeremy's GitHub Portfolio! 🌟
+# Welcome to Jeremiah Hansen's GitHub Portfolio! 🌟
 
-Hey there! I'm Jeremy—a [Your Profession or Field, e.g., Data Analyst / Web Developer] with a passion for turning ideas into impactful solutions. 
-Explore my projects and connect with me—let's create something amazing together! 🚀
+My name is Jeremiah Hansen and I am a current student of the Masters in Business Administration program and a recent graduate with a bachelors in Data Analytics both from Western Governors University. I have a passion for turning ideas into impactful solutions, and creating order from chaos. Please feel free to explore my projects below.  🚀
 
 ## 🖋️ About Me
 - 🌎 Currently based in **Waterloo, Iowa, USA**.
-- 🎓 [Your educational background, e.g., Bachelor's in Computer Science from XYZ University.]
-- 💡 Excited about [Your interests, e.g., data visualization, coding challenges, AI innovations].
+- 🎓 Bachelors of Science in Data Analytics from Western Governors University.
 
 ## 💻 Skills
 Here’s a glimpse of my technical toolkit:
-- **Programming Languages:** Python, SQL, JavaScript, [Add Others]
-- **Tools & Frameworks:** Tableau, React, Node.js, [Add Others]
-- **Expertise:** [Example: Building interactive dashboards, machine learning models, full-stack development.]
+- **Programming Languages:** Python, SQL, R, HTML, CSS, 
+- **Tools & Frameworks:** Tableau, Excel with Power Query, PowerBI, Git, PowerPoint, EPIC.
+- **Expertise:** Data Cleaning, Data Wrangling, Exploratory Data Analysis, Data Pipelines, Machine Learning, and Database Administation.
 
 ## 🌟 Featured Projects
 Check out some of my work:
