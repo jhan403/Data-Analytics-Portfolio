@@ -17,7 +17,7 @@ Check out some of my work:
 1. **ML Model Tumor Prediction**
    - *Description:* This project trains and deploys a machine learning pipeline that uses radiologic measurements to predict if a tumor is benign or malignant.
    - *Technologies used:* Python
-   - 
+   - https://github.com/jhan403/Data-Analytics-Portfolio/tree/500b0bfed44c1dba275ec51b34871a48a5f4ec6f/ML%20Model%20Tumor%20Prediction
 2. **[Project Name]**
    - *Description:* [Same as above.]
    - [Link to project repository]
