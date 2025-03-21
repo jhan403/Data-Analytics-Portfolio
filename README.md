@@ -14,9 +14,9 @@ Here’s a glimpse of my technical toolkit:
 
 ## 🌟 Featured Projects
 Check out some of my work:
-1. **[Project Name]**
-   - *Description:* [Briefly explain what problem it solves and highlight cool features.]
-   - *Technologies used:* [e.g., Python, Flask, SQL]
+1. **ML Model Tumor Prediction**
+   - *Description:* This project trains and deploys a machine learning pipeline that uses radiologic measurements to predict if a tumor ia benign or malignant.
+   - *Technologies used:* Python
    - [Link to project repository]
 2. **[Project Name]**
    - *Description:* [Same as above.]
