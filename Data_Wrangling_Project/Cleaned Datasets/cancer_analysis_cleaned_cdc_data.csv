@@ -1,0 +1,365 @@
+year,state,cancer_death_rate_by_100k_people
+2017,Utah,120.3
+2016,Utah,122.4
+2015,Utah,125.2
+2011,Utah,125.7
+2014,Utah,127.4
+2013,Utah,127.6
+2012,Utah,128.2
+2017,Hawaii,128.6
+2016,Hawaii,128.7
+2017,Colorado,131.0
+2015,Colorado,134.4
+2012,Hawaii,134.5
+2015,Hawaii,135.3
+2013,Hawaii,135.5
+2017,Arizona,135.8
+2014,Colorado,136.0
+2017,Wyoming,136.1
+2017,California,136.8
+2016,Arizona,136.8
+2016,Colorado,137.1
+2011,Hawaii,138.1
+2017,New Mexico,138.3
+2016,New Mexico,138.8
+2017,Alaska,139.2
+2013,Colorado,139.2
+2015,Wyoming,139.4
+2017,Connecticut,139.6
+2016,California,139.7
+2014,Hawaii,140.0
+2014,Wyoming,140.7
+2016,Wyoming,140.9
+2017,New York,141.2
+2015,Arizona,141.3
+2014,New Mexico,142.4
+2017,North Dakota,142.6
+2016,North Dakota,142.7
+2014,Arizona,142.7
+2015,California,142.8
+2012,Colorado,143.1
+2015,New Mexico,143.3
+2011,Colorado,143.9
+2014,California,144.1
+2017,New Jersey,144.6
+2016,Connecticut,144.9
+2013,New Mexico,145.4
+2017,Florida,145.9
+2016,Montana,145.9
+2015,Connecticut,146.2
+2017,Texas,146.5
+2014,Connecticut,146.7
+2017,Minnesota,146.8
+2016,Florida,146.9
+2011,New Mexico,146.9
+2013,Arizona,147.0
+2013,California,147.0
+2016,New York,147.5
+2012,New Mexico,148.1
+2013,Wyoming,148.2
+2017,Washington,148.4
+2015,New York,148.4
+2013,Connecticut,148.4
+2016,Texas,148.5
+2011,Arizona,148.5
+2016,Minnesota,148.6
+2012,Arizona,148.6
+2015,Texas,149.2
+2017,Massachusetts,149.3
+2016,New Jersey,149.7
+2016,Massachusetts,150.2
+2015,Florida,150.6
+2012,North Dakota,150.7
+2015,New Jersey,150.8
+2016,Idaho,150.9
+2016,Washington,150.9
+2012,California,150.9
+2017,Maryland,151.5
+2014,New York,151.8
+2013,North Dakota,151.8
+2012,Connecticut,152.0
+2012,Idaho,152.0
+2011,California,152.0
+2014,North Dakota,152.3
+2017,United States,152.5
+2017,Montana,152.6
+2017,Nebraska,152.6
+2017,Virginia,152.6
+2014,Minnesota,152.6
+2017,District of Columbia,152.8
+2015,Massachusetts,152.9
+2015,North Dakota,152.9
+2014,Florida,152.9
+2014,Texas,152.9
+2015,Minnesota,153.0
+2017,Idaho,153.2
+2017,Wisconsin,153.2
+2017,New Hampshire,153.5
+2016,Nebraska,153.6
+2015,Idaho,153.6
+2015,South Dakota,154.0
+2013,Montana,154.1
+2017,Oregon,154.2
+2017,Rhode Island,154.2
+2012,Wyoming,154.2
+2013,South Dakota,154.5
+2017,Georgia,154.9
+2015,Maryland,155.0
+2012,Montana,155.1
+2017,Nevada,155.3
+2014,Idaho,155.4
+2013,Minnesota,155.4
+2014,Massachusetts,155.5
+2014,Washington,155.5
+2016,United States,155.8
+2016,Oregon,155.9
+2013,Florida,155.9
+2013,New York,155.9
+2012,Minnesota,155.9
+2011,Wyoming,156.0
+2016,Virginia,156.1
+2014,New Jersey,156.1
+2013,Washington,156.1
+2013,Idaho,156.2
+2013,New Jersey,156.2
+2014,Montana,156.3
+2015,Washington,156.4
+2016,Maryland,156.5
+2016,South Dakota,156.7
+2017,South Dakota,156.9
+2015,Montana,156.9
+2013,Texas,156.9
+2017,North Carolina,157.1
+2017,Kansas,157.2
+2015,Nevada,157.2
+2016,Nevada,157.3
+2011,Idaho,157.4
+2015,Nebraska,157.8
+2017,Illinois,157.9
+2017,Iowa,158.0
+2016,Rhode Island,158.0
+2016,Wisconsin,158.0
+2013,New Hampshire,158.0
+2016,Vermont,158.4
+2011,Connecticut,158.4
+2015,United States,158.5
+2016,Kansas,158.6
+2016,Alaska,158.7
+2012,Florida,158.8
+2015,Wisconsin,159.3
+2012,New York,159.4
+2015,Virginia,159.5
+2014,Nebraska,159.6
+2013,Massachusetts,159.6
+2016,Iowa,159.8
+2015,Alaska,159.8
+2016,District of Columbia,160.1
+2016,Georgia,160.2
+2015,Oregon,160.2
+2014,Oregon,160.2
+2012,New Jersey,160.3
+2012,Texas,160.3
+2017,Delaware,160.4
+2014,New Hampshire,160.4
+2011,New York,160.6
+2011,Minnesota,160.8
+2017,Pennsylvania,161.0
+2011,North Dakota,161.0
+2014,United States,161.2
+2011,Florida,161.2
+2017,Michigan,161.3
+2015,New Hampshire,161.3
+2013,Nebraska,161.3
+2012,Washington,161.4
+2014,Virginia,161.5
+2016,North Carolina,161.6
+2014,Maryland,161.7
+2014,Wisconsin,161.8
+2013,Virginia,162.0
+2011,Texas,162.3
+2017,South Carolina,162.7
+2013,Maryland,162.9
+2015,Georgia,163.0
+2012,South Dakota,163.0
+2015,Rhode Island,163.1
+2013,Kansas,163.1
+2013,United States,163.2
+2012,Massachusetts,163.3
+2014,South Dakota,163.4
+2013,Oregon,163.4
+2013,Vermont,163.4
+2016,Illinois,163.5
+2012,Rhode Island,163.5
+2012,Nevada,163.6
+2016,New Hampshire,164.1
+2015,Iowa,164.1
+2011,Nebraska,164.1
+2014,Alaska,164.2
+2017,Vermont,164.5
+2014,Nevada,164.5
+2015,Kansas,164.6
+2016,Pennsylvania,164.7
+2015,North Carolina,164.7
+2012,Nebraska,164.7
+2013,Nevada,164.8
+2011,Montana,164.8
+2012,Vermont,165.0
+2012,Virginia,165.0
+2013,Wisconsin,165.2
+2015,Vermont,165.3
+2014,Georgia,165.5
+2015,Delaware,165.6
+2012,Maryland,165.6
+2014,Iowa,166.0
+2011,New Jersey,166.0
+2011,Maryland,166.1
+2011,Washington,166.1
+2012,Wisconsin,166.3
+2016,Michigan,166.4
+2012,Alaska,166.5
+2012,United States,166.5
+2015,South Carolina,166.6
+2014,Kansas,166.8
+2011,Massachusetts,166.9
+2016,Missouri,167.0
+2014,Rhode Island,167.0
+2015,Pennsylvania,167.2
+2017,Missouri,167.3
+2014,Delaware,167.3
+2015,District of Columbia,167.5
+2015,Illinois,167.6
+2013,Delaware,167.6
+2013,North Carolina,167.6
+2011,Rhode Island,167.6
+2016,South Carolina,167.7
+2013,Georgia,167.7
+2012,New Hampshire,167.8
+2014,Vermont,167.9
+2015,Michigan,168.0
+2012,Oregon,168.0
+2012,Kansas,168.2
+2013,Iowa,168.4
+2012,Iowa,168.6
+2016,Maine,168.9
+2014,Illinois,168.9
+2011,United States,169.0
+2012,Georgia,169.1
+2014,North Carolina,169.3
+2014,Pennsylvania,169.6
+2011,South Dakota,169.7
+2017,Alabama,170.0
+2017,Indiana,170.0
+2012,North Carolina,170.2
+2011,Nevada,170.2
+2014,Maine,170.3
+2011,Georgia,170.3
+2011,Kansas,170.3
+2013,Michigan,170.5
+2013,Pennsylvania,170.6
+2017,Maine,170.8
+2016,Delaware,170.8
+2011,Virginia,170.8
+2017,Ohio,171.2
+2014,South Carolina,171.4
+2016,Louisiana,171.9
+2013,Illinois,171.9
+2013,Alaska,172.0
+2016,Indiana,172.5
+2011,Oregon,172.6
+2011,Iowa,173.1
+2017,Tennessee,173.4
+2016,Ohio,173.4
+2015,Missouri,173.4
+2017,Arkansas,173.6
+2016,Alabama,174.0
+2013,South Carolina,174.0
+2014,Michigan,174.1
+2013,Rhode Island,174.6
+2012,Michigan,174.8
+2017,Louisiana,174.9
+2011,Illinois,175.0
+2011,North Carolina,175.0
+2015,Ohio,175.1
+2013,Maine,175.2
+2012,Pennsylvania,175.5
+2011,Alaska,175.5
+2011,Wisconsin,175.5
+2015,Alabama,175.6
+2012,Illinois,175.6
+2011,Vermont,175.9
+2015,Indiana,176.3
+2012,Delaware,177.0
+2017,Oklahoma,177.3
+2011,New Hampshire,177.5
+2014,Alabama,177.6
+2013,Ohio,177.6
+2014,Missouri,177.7
+2016,Oklahoma,177.8
+2014,Ohio,177.8
+2011,Michigan,177.8
+2015,Maine,178.0
+2011,Pennsylvania,178.0
+2013,District of Columbia,178.2
+2014,District of Columbia,178.6
+2016,Arkansas,178.8
+2012,District of Columbia,178.8
+2012,South Carolina,178.8
+2012,Maine,179.3
+2017,West Virginia,179.4
+2013,Missouri,179.4
+2011,Missouri,179.4
+2013,Indiana,179.5
+2014,Indiana,179.7
+2011,Delaware,179.8
+2016,Tennessee,179.9
+2014,Oklahoma,179.9
+2015,Louisiana,180.2
+2015,Tennessee,180.5
+2011,District of Columbia,180.7
+2011,South Carolina,182.0
+2016,West Virginia,182.2
+2013,Alabama,182.2
+2011,Maine,182.2
+2012,Missouri,182.3
+2012,Ohio,182.7
+2017,Mississippi,183.1
+2014,Arkansas,183.1
+2014,Tennessee,184.2
+2015,Oklahoma,184.3
+2012,Indiana,184.4
+2011,Ohio,184.9
+2012,Alabama,185.2
+2015,Arkansas,185.4
+2011,Indiana,185.4
+2013,Tennessee,185.5
+2017,Kentucky,185.7
+2013,Oklahoma,185.7
+2014,Louisiana,186.1
+2012,Tennessee,187.6
+2016,Mississippi,187.7
+2011,Alabama,187.8
+2015,Mississippi,188.4
+2013,Louisiana,188.5
+2011,Tennessee,189.0
+2012,Arkansas,189.1
+2012,Oklahoma,189.9
+2013,Arkansas,190.0
+2015,West Virginia,190.4
+2012,Louisiana,190.7
+2013,West Virginia,190.8
+2011,Arkansas,191.1
+2011,Oklahoma,191.1
+2012,West Virginia,191.8
+2014,Mississippi,193.1
+2011,Louisiana,193.7
+2016,Kentucky,193.8
+2014,West Virginia,195.1
+2015,Kentucky,195.9
+2013,Mississippi,197.0
+2011,Mississippi,197.4
+2014,Kentucky,198.8
+2013,Kentucky,199.3
+2011,West Virginia,200.1
+2012,Mississippi,200.4
+2011,Kentucky,200.8
+2012,Kentucky,201.5

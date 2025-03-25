@@ -1,0 +1,365 @@
+year,state,obesity_pct_pop
+2011,Alaska,27.4
+2011,Alabama,32.0
+2011,Arkansas,30.9
+2011,Arizona,25.1
+2011,California,23.8
+2011,Colorado,20.7
+2011,Connecticut,24.5
+2011,District of Columbia,23.7
+2011,Delaware,28.8
+2011,Florida,26.6
+2011,Georgia,28.0
+2011,Hawaii,21.8
+2011,Iowa,29.0
+2011,Idaho,27.0
+2011,Illinois,27.1
+2011,Indiana,30.8
+2011,Kansas,29.6
+2011,Kentucky,30.4
+2011,Louisiana,33.4
+2011,Massachusetts,22.7
+2011,Maryland,28.3
+2011,Maine,27.8
+2011,Michigan,31.3
+2011,Minnesota,25.7
+2011,Missouri,30.3
+2011,Mississippi,34.9
+2011,Montana,24.6
+2011,North Carolina,29.1
+2011,North Dakota,27.8
+2011,Nebraska,28.4
+2011,New Hampshire,26.2
+2011,New Jersey,23.7
+2011,New Mexico,26.3
+2011,Nevada,24.5
+2011,New York,24.5
+2011,Ohio,29.6
+2011,Oklahoma,31.1
+2011,Oregon,26.7
+2011,Pennsylvania,28.6
+2011,Rhode Island,25.4
+2011,South Carolina,30.8
+2011,South Dakota,28.1
+2011,Tennessee,29.2
+2011,Texas,30.4
+2011,United States,27.4
+2011,Utah,24.4
+2011,Virginia,29.2
+2011,Vermont,25.4
+2011,Washington,26.5
+2011,Wisconsin,27.7
+2011,West Virginia,32.4
+2011,Wyoming,25.0
+2012,Alaska,25.7
+2012,Alabama,33.0
+2012,Arkansas,34.5
+2012,Arizona,26.0
+2012,California,25.0
+2012,Colorado,20.5
+2012,Connecticut,25.6
+2012,District of Columbia,21.9
+2012,Delaware,26.9
+2012,Florida,25.2
+2012,Georgia,29.1
+2012,Hawaii,23.6
+2012,Iowa,30.4
+2012,Idaho,26.8
+2012,Illinois,28.1
+2012,Indiana,31.4
+2012,Kansas,29.8
+2012,Kentucky,31.3
+2012,Louisiana,34.7
+2012,Massachusetts,22.9
+2012,Maryland,27.6
+2012,Maine,28.3
+2012,Michigan,31.1
+2012,Minnesota,25.7
+2012,Missouri,29.6
+2012,Mississippi,34.6
+2012,Montana,24.3
+2012,North Carolina,29.6
+2012,North Dakota,29.7
+2012,Nebraska,28.6
+2012,New Hampshire,27.3
+2012,New Jersey,24.6
+2012,New Mexico,27.1
+2012,Nevada,26.2
+2012,New York,23.6
+2012,Ohio,30.1
+2012,Oklahoma,32.2
+2012,Oregon,27.3
+2012,Pennsylvania,29.1
+2012,Rhode Island,25.7
+2012,South Carolina,31.6
+2012,South Dakota,28.1
+2012,Tennessee,31.1
+2012,Texas,29.2
+2012,United States,27.7
+2012,Utah,24.3
+2012,Virginia,27.4
+2012,Vermont,23.7
+2012,Washington,26.8
+2012,Wisconsin,29.7
+2012,West Virginia,33.8
+2012,Wyoming,24.6
+2013,Alaska,28.4
+2013,Alabama,32.4
+2013,Arkansas,34.6
+2013,Arizona,26.8
+2013,California,24.1
+2013,Colorado,21.3
+2013,Connecticut,25.0
+2013,District of Columbia,22.9
+2013,Delaware,31.1
+2013,Florida,26.4
+2013,Georgia,30.3
+2013,Hawaii,21.8
+2013,Iowa,31.3
+2013,Idaho,29.6
+2013,Illinois,29.4
+2013,Indiana,31.8
+2013,Kansas,30.0
+2013,Kentucky,33.2
+2013,Louisiana,33.1
+2013,Massachusetts,23.6
+2013,Maryland,28.3
+2013,Maine,28.9
+2013,Michigan,31.5
+2013,Minnesota,25.5
+2013,Missouri,30.4
+2013,Mississippi,35.1
+2013,Montana,24.6
+2013,North Carolina,29.4
+2013,North Dakota,31.0
+2013,Nebraska,29.6
+2013,New Hampshire,26.7
+2013,New Jersey,26.3
+2013,New Mexico,26.4
+2013,Nevada,26.2
+2013,New York,25.4
+2013,Ohio,30.4
+2013,Oklahoma,32.5
+2013,Oregon,26.5
+2013,Pennsylvania,30.0
+2013,Rhode Island,27.3
+2013,South Carolina,31.7
+2013,South Dakota,29.9
+2013,Tennessee,33.7
+2013,Texas,30.9
+2013,United States,28.3
+2013,Utah,24.1
+2013,Virginia,27.2
+2013,Vermont,24.7
+2013,Washington,27.2
+2013,Wisconsin,29.8
+2013,West Virginia,35.1
+2013,Wyoming,27.8
+2014,Alaska,29.7
+2014,Alabama,33.5
+2014,Arkansas,35.9
+2014,Arizona,28.9
+2014,California,24.7
+2014,Colorado,21.3
+2014,Connecticut,26.3
+2014,District of Columbia,21.7
+2014,Delaware,30.7
+2014,Florida,26.2
+2014,Georgia,30.5
+2014,Hawaii,22.1
+2014,Iowa,30.9
+2014,Idaho,28.9
+2014,Illinois,29.3
+2014,Indiana,32.7
+2014,Kansas,31.3
+2014,Kentucky,31.6
+2014,Louisiana,34.9
+2014,Massachusetts,23.3
+2014,Maryland,29.6
+2014,Maine,28.2
+2014,Michigan,30.7
+2014,Minnesota,27.6
+2014,Missouri,30.2
+2014,Mississippi,35.5
+2014,Montana,26.4
+2014,North Carolina,29.7
+2014,North Dakota,32.2
+2014,Nebraska,30.2
+2014,New Hampshire,27.4
+2014,New Jersey,26.9
+2014,New Mexico,28.4
+2014,Nevada,27.7
+2014,New York,27.0
+2014,Ohio,32.6
+2014,Oklahoma,33.0
+2014,Oregon,27.9
+2014,Pennsylvania,30.2
+2014,Rhode Island,27.0
+2014,South Carolina,32.1
+2014,South Dakota,29.8
+2014,Tennessee,31.2
+2014,Texas,31.9
+2014,United States,28.9
+2014,Utah,25.7
+2014,Virginia,28.5
+2014,Vermont,24.8
+2014,Washington,27.3
+2014,Wisconsin,31.2
+2014,West Virginia,35.7
+2014,Wyoming,29.5
+2015,Alaska,29.8
+2015,Alabama,35.6
+2015,Arkansas,34.5
+2015,Arizona,28.4
+2015,California,24.2
+2015,Colorado,20.2
+2015,Connecticut,25.3
+2015,District of Columbia,22.1
+2015,Delaware,29.7
+2015,Florida,26.8
+2015,Georgia,30.7
+2015,Hawaii,22.7
+2015,Iowa,32.1
+2015,Idaho,28.6
+2015,Illinois,30.8
+2015,Indiana,31.3
+2015,Kansas,34.2
+2015,Kentucky,34.6
+2015,Louisiana,36.2
+2015,Massachusetts,24.3
+2015,Maryland,28.9
+2015,Maine,30.0
+2015,Michigan,31.2
+2015,Minnesota,26.1
+2015,Missouri,32.4
+2015,Mississippi,35.6
+2015,Montana,23.6
+2015,North Carolina,30.1
+2015,North Dakota,31.0
+2015,Nebraska,31.4
+2015,New Hampshire,26.3
+2015,New Jersey,25.6
+2015,New Mexico,28.8
+2015,Nevada,26.7
+2015,New York,25.0
+2015,Ohio,29.8
+2015,Oklahoma,33.9
+2015,Oregon,30.1
+2015,Pennsylvania,30.0
+2015,Rhode Island,26.0
+2015,South Carolina,31.7
+2015,South Dakota,30.4
+2015,Tennessee,33.8
+2015,Texas,32.4
+2015,United States,28.9
+2015,Utah,24.5
+2015,Virginia,29.2
+2015,Vermont,25.1
+2015,Washington,26.4
+2015,Wisconsin,30.7
+2015,West Virginia,35.6
+2015,Wyoming,29.0
+2016,Alaska,31.4
+2016,Alabama,35.7
+2016,Arkansas,35.7
+2016,Arizona,29.0
+2016,California,25.0
+2016,Colorado,22.3
+2016,Connecticut,26.0
+2016,District of Columbia,22.6
+2016,Delaware,30.7
+2016,Florida,27.4
+2016,Georgia,31.4
+2016,Hawaii,23.8
+2016,Iowa,32.0
+2016,Idaho,27.4
+2016,Illinois,31.6
+2016,Indiana,32.5
+2016,Kansas,31.2
+2016,Kentucky,34.2
+2016,Louisiana,35.5
+2016,Massachusetts,23.6
+2016,Maryland,29.9
+2016,Maine,29.9
+2016,Michigan,32.5
+2016,Minnesota,27.8
+2016,Missouri,31.7
+2016,Mississippi,37.3
+2016,Montana,25.5
+2016,North Carolina,31.8
+2016,North Dakota,31.9
+2016,Nebraska,32.0
+2016,New Hampshire,26.6
+2016,New Jersey,27.4
+2016,New Mexico,28.3
+2016,Nevada,25.8
+2016,New York,25.5
+2016,Ohio,31.5
+2016,Oklahoma,32.8
+2016,Oregon,28.7
+2016,Pennsylvania,30.3
+2016,Rhode Island,26.6
+2016,South Carolina,32.3
+2016,South Dakota,29.6
+2016,Tennessee,34.8
+2016,Texas,33.7
+2016,United States,29.6
+2016,Utah,25.4
+2016,Virginia,29.0
+2016,Vermont,27.1
+2016,Washington,28.6
+2016,Wisconsin,30.7
+2016,West Virginia,37.7
+2016,Wyoming,27.7
+2017,Alaska,34.2
+2017,Alabama,36.3
+2017,Arkansas,35.0
+2017,Arizona,29.5
+2017,California,25.1
+2017,Colorado,22.6
+2017,Connecticut,26.9
+2017,District of Columbia,23.0
+2017,Delaware,31.8
+2017,Florida,28.4
+2017,Georgia,31.6
+2017,Hawaii,23.8
+2017,Iowa,36.4
+2017,Idaho,29.3
+2017,Illinois,31.1
+2017,Indiana,33.6
+2017,Kansas,32.4
+2017,Kentucky,34.3
+2017,Louisiana,36.2
+2017,Massachusetts,25.9
+2017,Maryland,31.3
+2017,Maine,29.1
+2017,Michigan,32.3
+2017,Minnesota,28.4
+2017,Missouri,32.5
+2017,Mississippi,37.3
+2017,Montana,25.3
+2017,North Carolina,32.1
+2017,North Dakota,33.2
+2017,Nebraska,32.8
+2017,New Hampshire,28.1
+2017,New Jersey,27.3
+2017,New Mexico,28.4
+2017,Nevada,26.7
+2017,New York,25.7
+2017,Ohio,33.8
+2017,Oklahoma,36.5
+2017,Oregon,29.4
+2017,Pennsylvania,31.6
+2017,Rhode Island,30.0
+2017,South Carolina,34.1
+2017,South Dakota,31.9
+2017,Tennessee,32.8
+2017,Texas,33.0
+2017,United States,30.1
+2017,Utah,25.3
+2017,Virginia,30.1
+2017,Vermont,27.6
+2017,Washington,27.7
+2017,Wisconsin,32.0
+2017,West Virginia,38.1
+2017,Wyoming,28.8
