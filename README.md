@@ -25,6 +25,10 @@ Check out some of my work:
    - *Description:* This project explores different visuals associated with poverty in the United States of America.
    - *Technologies used:* Tableau and Excel for data cleaning
    - https://public.tableau.com/views/StoryExploringPovertybyStateintheUS2015Census/ExploringPovertybyStateintheUS?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+4. **Grades VS Gaming**
+   - *Description:* This project explores various gaming habbits and parental data to determine if there is a correlation with student grades.
+   - *Technologies:* Python
+   - 
 
 Want to see more? Head over to the repositories section for the full collection. 🎉
 
