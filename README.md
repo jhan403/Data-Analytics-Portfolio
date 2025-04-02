@@ -28,7 +28,7 @@ Check out some of my work:
 4. **Grades VS Gaming**
    - *Description:* This project explores various gaming habbits and parental data to determine if there is a correlation with student grades.
    - *Technologies:* Python
-   - 
+   - https://github.com/jhan403/Data-Analytics-Portfolio/blob/main/grade_vs_gaming.ipynb
 
 Want to see more? Head over to the repositories section for the full collection. 🎉
 
